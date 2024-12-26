@@ -5,4 +5,4 @@ elixir 1.18.0-otp-27
 #
 # When this is erlant 27.1.2 `mix test` will pass
 # When this is erlang 27.1.3 `mix test` will fail
-erlang 27.1.2
+erlang 27.1.3
